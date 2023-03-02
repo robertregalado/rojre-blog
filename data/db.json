@@ -1,24 +1,62 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "welcome to the new blog",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tags": [
-          "webdev",
-          "coding",
-          "news"
-        ]
-      },
-      {
-        "id": 2,
-        "title": "top 5 CSS tips",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "tags": [
-          "css",
-          "webdev",
-          "coding"
-        ]
-      }
-    ]
-  }
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 3556,
+      "title": "jsadlfjsdj",
+      "body": "sdkjfksdnvcfldfndsfd",
+      "tags": [
+        "html",
+        "css",
+        "python"
+      ]
+    },
+    {
+      "id": 9370,
+      "title": "Introduction",
+      "body": "Hi, I am the creator of this website. I hope this website could be of use, and that you may use it often.",
+      "tags": [
+        "#"
+      ]
+    },
+    {
+      "id": 3030,
+      "title": "Introduction",
+      "body": "Hi, I am the creator of this website. I hope this website could be of use, and that you may use it often.",
+      "tags": [
+        "#",
+        "Intro",
+        "Introduction",
+        "Post",
+        "Blog"
+      ]
+    },
+    {
+      "id": 9280,
+      "title": "Python Automation",
+      "body": "Python automation works fine in any automation or repetitive tasks.",
+      "tags": [
+        "automation"
+      ]
+    }
+  ]
+}
